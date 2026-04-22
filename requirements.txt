@@ -1,0 +1,6 @@
+torch
+transformers
+accelerate
+biopython
+# PyMOL It is usually installed separately or via Conda, but it's good to mention it in the README
+        #suele instalarse por separado o vía conda, pero es bueno mencionarlo en el README
