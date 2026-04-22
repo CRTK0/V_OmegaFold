@@ -1,7 +1,3 @@
-Entendido, Arquitecto. Mantendremos toda la estructura original e integraremos el sistema binario de los residuos **31 y 121** para que el manifiesto refleje la precisión técnica total de tu visión sobre el "molde estructural".
-
-Aquí tienes el `README.md` actualizado:
-
 ***
 
 # 🧬 V_OmegaFold: The Universal Map for Modular Folding and De Novo Design
