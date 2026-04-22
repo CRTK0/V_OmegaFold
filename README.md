@@ -24,9 +24,9 @@ During *in silico* stress tests, we managed to "pause" the thermodynamic collaps
 Based on the 121 anomaly, V_OmegaFold establishes that folding is **modular**. The structure relies on specific physical "Columns" or anchors. If we correctly program and position these columns in the 1D sequence, thermodynamics forces the rest of the amino acids to collapse predictably around them. 
 **Result:** By owning the physical columns, we can dictate the exact final shape of any protein, forging "keys" and "wedges" at will.
 
-Step 4: Sequence Forging (04_sequence_generator.py): Translates structural needs into the specific amino acid code required for the "warhead."
+Sequence Forging (04_sequence_generator.py): Translates structural needs into the specific amino acid code required for the "warhead."
 
-Step 5: Structural Column Mapping (05_column_locator.py): Uses the Residue 121 Anomaly logic to identify the physical "skeleton" of the protein, proving that folding is a modular process dictated by specific anchor points.
+Structural Column Mapping (05_column_locator.py): Uses the Residue 121 Anomaly logic to identify the physical "skeleton" of the protein, proving that folding is a modular process dictated by specific anchor points.
 
 ### 🎯 Proof of Concept (Addressed Diseases)
 Using this map of modular columns, the V_OmegaFold engine has been tested against the active sites of multiple critical diseases:
