@@ -39,7 +39,7 @@ git clone [https://github.com/CRTK0/V_OmegaFold.git](https://github.com/CRTK0/V_
 cd V_OmegaFold
 pip install -r requirements.txt
 python src/01_esmfold_local.py
-
+```
 Disclaimer: This project is a computational simulation (in silico). Generated sequences and models have not been subjected to in vitro or in vivo testing. For open-source research purposes only.
 
 ##############################################################
@@ -72,11 +72,11 @@ Diabetes Tipo 2 (Pipeline de Referencia): Diseño de una "ojiva" peptídica suic
 
 🚀 Instalación y Uso (Entorno Local)
 Se recomienda ejecutar en un entorno virtual aislado (venv). Nota: La ejecución del colapso físico requiere la descarga inicial de los pesos del modelo (~8.44 GB).
-
+```bash
 git clone [https://github.com/CRTK0/V_OmegaFold.git](https://github.com/CRTK0/V_OmegaFold.git)
 cd V_OmegaFold
 pip install -r requirements.txt
 python src/01_esmfold_local.py
-
+```
 ⚠️ Descargo de Responsabilidad (Disclaimer)
 Este proyecto es una simulación computacional (in silico). Las secuencias, teorías de plegamiento modular y modelos generados no han sido sometidos a ensayos in vitro o in vivo. Este código representa un ejercicio de investigación bioinformática extrema y su propósito es estrictamente académico, open-source y de demostración de capacidades computacionales.
