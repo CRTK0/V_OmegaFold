@@ -24,6 +24,10 @@ During *in silico* stress tests, we managed to "pause" the thermodynamic collaps
 Based on the 121 anomaly, V_OmegaFold establishes that folding is **modular**. The structure relies on specific physical "Columns" or anchors. If we correctly program and position these columns in the 1D sequence, thermodynamics forces the rest of the amino acids to collapse predictably around them. 
 **Result:** By owning the physical columns, we can dictate the exact final shape of any protein, forging "keys" and "wedges" at will.
 
+Step 4: Sequence Forging (04_sequence_generator.py): Translates structural needs into the specific amino acid code required for the "warhead."
+
+Step 5: Structural Column Mapping (05_column_locator.py): Uses the Residue 121 Anomaly logic to identify the physical "skeleton" of the protein, proving that folding is a modular process dictated by specific anchor points.
+
 ### 🎯 Proof of Concept (Addressed Diseases)
 Using this map of modular columns, the V_OmegaFold engine has been tested against the active sites of multiple critical diseases:
 * **Alzheimer's:** Neutralization of amyloid plaque aggregation.
@@ -60,6 +64,10 @@ Durante estas pruebas de estrés in silico, logramos "pausar" el colapso termodi
 La Teoría de las "Columnas Estructurales"
 A partir de la anomalía 121, V_OmegaFold establece que el plegamiento es modular. La estructura depende de "Columnas" o anclajes físicos específicos. Si programamos y posicionamos estas columnas correctamente en la secuencia 1D, el resto de los aminoácidos se ven obligados por la termodinámica a colapsar de forma predecible alrededor de ellas.
 Resultado: Al poseer las columnas físicas, podemos dictar la forma final exacta de cualquier proteína, forjando "llaves" y "cuñas" a voluntad.
+
+Forja de Secuencias (04_sequence_generator.py): Traduce las necesidades estructurales al código de aminoácidos específico necesario para la "ojiva".
+
+Mapeo de Columnas Estructurales (05_column_locator.py): Utiliza la lógica de la Anomalía del Residuo 121 para identificar el "esqueleto" físico de la proteína, demostrando que el plegamiento es un proceso modular dictado por puntos de anclaje específicos.
 
 🎯 Pruebas de Concepto (Enfermedades Abordadas)
 Utilizando este mapa de columnas modulares, el motor V_OmegaFold ha sido puesto a prueba contra los sitios activos de múltiples enfermedades críticas:
