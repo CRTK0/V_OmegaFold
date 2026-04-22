@@ -44,6 +44,8 @@ Disclaimer: This project is a computational simulation (in silico). Generated se
 
 ##############################################################
 ##############################################################
+
+
 🇪🇸 Versión en Español
 📌 Visión General
 V_OmegaFold no es un tratamiento para una enfermedad específica; es un motor computacional y un marco teórico universal para curar cualquier patología a nivel molecular. Este repositorio contiene el plano arquitectónico para diseñar proteínas De Novo (que no existen en la naturaleza) controlando su geometría tridimensional mediante un enfoque de plegamiento modular.
