@@ -33,6 +33,17 @@ Using this map of modular columns, the V_OmegaFold engine has been tested agains
 * **COVID-19:** Steric inhibition of the main protease (Mpro) and blocking of the Spike protein's Receptor Binding Domain (RBD).
 * **Type 2 Diabetes (Baseline Pipeline):** Design of a suicidal peptide warhead (`EDDYFLVPR`) to seal the Cysteine 215 residue of the **PTP1B** enzyme, reversing insulin resistance from its root.
 
+Neuro-Regeneration (Stroke Recovery): Design of a high-affinity "Neuro-Wedge" (CRWFPVIVQ) targeting the NgR1 (Nogo Receptor). By using the 31-121 Binary Anomaly, we identified the exact hinge of the receptor's horseshoe-shaped mold. Blocking this site effectively shuts down the "stop growth" signal, theoretically allowing axonal regrowth and mobility recovery post-stroke.
+
+### 🔬 Visual Validation (In Silico)
+Below is the result of the `Neuro-Wedge` (Blue) docking against the `NgR1 Receptor` (Gray/Transparent). 
+
+![NgR1 Docking Validation](docs/NgR1_Docking_Validation.png)
+
+* **Red Spheres:** 31-121 Binary Anomaly (Critical Anchors).
+* **Blue Structure:** V_OmegaFold Synthetic Peptide.
+* **Result:** Successful steric blockade of the inhibitory pocket, preventing Nogo-A binding.
+
 ### 🚀 Installation & Usage (Local Environment)
 We recommend running this in an isolated `venv`. *Note: Physical collapse execution requires downloading model weights (~8.44 GB).*
 
@@ -75,6 +86,8 @@ Utilizando este mapa de columnas modulares, el motor V_OmegaFold ha sido puesto 
 * **Enfermedad de Huntington:** Estabilización de los tractos de poliglutamina en la proteína HTT mutada.
 * **COVID-19:** Inhibición estérica de la proteasa principal (Mpro) y bloqueo del dominio de unión al receptor (RBD) de la proteína Spike.
 * **Diabetes Tipo 2 (Pipeline de Referencia):** Diseño de una "ojiva" peptídica suicida (`EDDYFLVPR`) para sellar el residuo Cisteína 215 de la enzima **PTP1B**, revirtiendo la resistencia a la insulina desde la raíz.
+
+Neuro-Regeneración (Recuperación de ACV): Diseño de una "Cuña Neuronal" de alta afinidad (CRWFPVIVQ) dirigida al Receptor NgR1 (Nogo). Utilizando la Anomalía Binaria 31-121, identificamos la bisagra exacta del molde en forma de herradura del receptor. Bloquear este sitio apaga eficazmente la señal de "detener crecimiento", permitiendo teóricamente el crecimiento axonal y la recuperación de la movilidad tras un ACV.
 
 ### 🚀 Instalación y Uso (Entorno Local)
 Se recomienda ejecutar en un entorno virtual aislado (`venv`). *Nota: La ejecución del colapso físico requiere la descarga inicial de los pesos del modelo (~8.44 GB).*
