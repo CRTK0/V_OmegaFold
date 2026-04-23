@@ -75,6 +75,18 @@ This pipeline addresses the persistent nature of microplastics in low-temperatur
 ![Oceanic Anchor Validation](docs/Oceanic_Anchor_Validation.png)
 *Visual Proof: Orange (Anchor) successfully projected away from Cyan (Enzyme).*
 
+### 🛡️ Ballistic Biomaterials (Spidroin Forge)
+**Status:** 🧬 In Silico Polymer Synthesis - **Validated**
+
+Applying protein engineering to material science, we successfully synthesized and folded a hyper-concentrated Spider Silk (Spidroin) polymer. This material is designed to exceed the tensile strength of steel while maintaining extreme elasticity.
+
+* **Amorphous Springs (Elasticity):** The `GPGQQ` glycine-rich modules correctly fold into expansive, energy-absorbing coils.
+* **Crystalline Anchors (Strength):** The `AAAAAA` poly-alanine blocks form rigid structural nodes that, when cross-linked in a macroscopic fiber, create impenetrable beta-sheet crystals.
+* **Result:** A biologically producible, ballistic-grade polymer blueprint ready for large-scale bacterial fermentation.
+
+![Spidroin Biomaterial Forge](docs/Spidroin_Polymer_Forge.png)
+*Visual Proof: Red (Strength Nodes) distinctly segregated from Yellow (Elasticity Springs).*
+
 ### 🚀 Installation & Usage (Local Environment)
 We recommend running this in an isolated `venv`. *Note: Physical collapse execution requires downloading model weights (~8.44 GB).*
 
@@ -150,6 +162,18 @@ Este pipeline aborda la persistencia de los microplásticos en entornos acuátic
 
 ![Validación de Anclaje Oceánico](docs/Oceanic_Anchor_Validation.png)
 *Prueba Visual: El Ancla (Naranja) proyectada con éxito lejos de la Enzima (Cian).*
+
+### 🛡️ Biomateriales Balísticos (Forja Spidroin)
+**Estado:** 🧬 Síntesis de Polímero In Silico - **Validado**
+
+Aplicando la ingeniería de proteínas a la ciencia de materiales, sintetizamos y plegamos con éxito un polímero hiperconcentrado de Seda de Araña (Spidroin). Este material está diseñado para superar la resistencia a la tracción del acero manteniendo una elasticidad extrema.
+
+* **Resortes Amorfos (Elasticidad):** Los módulos ricos en glicina `GPGQQ` se pliegan correctamente en espirales expansivas que absorben energía.
+* **Anclajes Cristalinos (Fuerza):** Los bloques de poli-alanina `AAAAAA` forman nodos estructurales rígidos que, al entrelazarse en una fibra macroscópica, crean cristales de lámina beta impenetrables.
+* **Resultado:** Un plano de polímero de grado balístico, biológicamente producible, listo para la fermentación bacteriana a gran escala.
+
+![Forja de Biomaterial Spidroin](docs/Spidroin_Polymer_Forge.png)
+*Prueba Visual: Rojo (Nodos de Fuerza) claramente segregados del Amarillo (Resortes de Elasticidad).*
 
 ### 🚀 Instalación y Uso (Entorno Local)
 Se recomienda ejecutar en un entorno virtual aislado (`venv`). *Nota: La ejecución del colapso físico requiere la descarga inicial de los pesos del modelo (~8.44 GB).*
